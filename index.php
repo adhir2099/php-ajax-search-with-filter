@@ -1,10 +1,10 @@
 <html>  
     <head>
-        <title>Search and filter data</title>
+        <title>Search and filter data with ajax</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="author" content="Adhirsaurio" />
-        <meta name="description" content="Search and filter data" />
+        <meta name="description" content="Search and filter data with ajax and PHP" />
         <link href="assets/css/styles.css" rel="stylesheet" />
         <script src="assets/js/jquery.min.js"></script>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
@@ -42,14 +42,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        <p class="lead mb-0">Search and filter data <a href="https://github.com/adhirsaurio?tab=repositories"><i class="fab fa-github-alt"></i></a></p>
+                        <p class="lead mb-0">Search and filter data with Ajax <a href="https://github.com/adhirsaurio?tab=repositories"><i class="fab fa-github-alt"></i></a></p>
                     </div>
                 </div>
             </div>
         </footer>
 
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>Search and filter data © 2022</small></div>
+            <div class="container"><small>Search and filter data with Ajax © 2022</small></div>
         </div>
     
     </body>  
